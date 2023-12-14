@@ -1,5 +1,6 @@
 # FEM-flyback-model
 A finite-element model of a flyback transformer
+
 In this project, a flyback transformer is modelled using ANSYS Maxwell software.
 A flyback transformer was initially designed to generate high voltage sawtooth signals at high frequencies. It consists of a ferrite rod, a primary winding that is connected to an ac voltage source and one -or two- secondary windings. A simple electrical equivalent of this transformer is seen in the figure below:
  ![image](https://github.com/Ahsnazari/FEM-flyback-model/assets/118515566/16f293ed-d4d3-4ec4-b696-ae59d1b750f8)
